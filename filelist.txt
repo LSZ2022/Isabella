@@ -1,0 +1,13 @@
+MicrobitTemperatureMonitor.py
+__pycache__
+alarm_clock.py
+filelist.txt
+greeting_generator.py
+hardware_status_reporter.py
+main.py
+os_controller.py
+server_security_checker.py
+speech_engine.py
+volume_control.py
+weather_service.py
+week_event.py
